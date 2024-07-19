@@ -6,3 +6,6 @@ https://www.kaggle.com/datasets/trolukovich/apparel-images-dataset
 
 평가지 URL
 https://forms.gle/xTCQFQua5zEyDKD16
+
+구글드라이브
+https://drive.google.com/file/d/1aBsRvBmGwfkMRYzGMxZSF_mJgqMNq6qx/view?usp=sharing
